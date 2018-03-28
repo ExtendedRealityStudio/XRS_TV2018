@@ -13,6 +13,32 @@
 					<string>software-package</string>
 					<key>url</key>
 					<string>https://www.dropbox.com/s/xusgqaf7e0hnmun/TVXR-iPhone%208%20Plus.ipa?dl=1</string>
+					<key>md5-size</key>
+					<integer>50000000</integer>
+					<key>md5s</key>
+					<array>
+					  <string>3f4c626be006c1c6fc8005a32e04f54a</string>
+					  <string>2ca44519994074e523c07215fc4b9a5b</string>
+					  <string>17343f0669225e8c3ce1df99f21a0e2a</string>
+					  <string>f67ef776ade64831991b9e253e2d13f7</string>
+					  <string>de1d2ec19184cb14ee129eacf84377ba</string>
+					  <string>f46592977fe542f9c00fa0b1e74cd213</string>
+					  <string>fd63f510d93c5059cad446fc9ef13151</string>
+					  <string>2bf97fa74f0962b0fa04934f95841923</string>
+					  <string>89429b717af2bfb8042a9a13cc2c9fe0</string>
+					  <string>e86a3ba513273de507016539ba13b698</string>
+					  <string>65f4871db6a1b6509a69708e7747efd6</string>
+					  <string>391ef40bef78d1548ef5925b405009ca</string>
+					  <string>35ab775dd5ddc9a9824179ab78d8a8b8</string>
+					  <string>fd87c5569c8e98ddd9a2f0fce86f240a</string>
+					  <string>2e90534304266b383cedf0fd50c86f5e</string>
+					  <string>ee9622e3b482a16ac18f0a4247789cf2</string>
+					  <string>225a785df9d6951fd6043407a09b677b</string>
+					  <string>917638446e8bc79628104e9530a61e8e</string>
+					  <string>bca750b3eab14193ec30d3abef0fac3a</string>
+					  <string>b61d0827d809b2543976ca876e16ce88</string>
+					  <string>637809dd972124061dab929b13ed6d3a</string>
+					</array>
 				</dict>
 				<dict>
 					<key>kind</key>
