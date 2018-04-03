@@ -1,22 +1,23 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>items</key>
-  <array>
-      <dict>
-          <key>assets</key>
-          <array>
-              <dict>
-                  <key>kind</key>
-                  <string>software-package</string>
-                  <key>url</key>
-                  <string>https://www.dropbox.com/s/rd5sjvrlqfz7x9f/Unity-iPhone.ipa?dl=1</string>
-<key>md5-size</key>
-<integer>50000000</integer>
-<key>md5s</key>
-<array>
-  <string>a4ff439a875f4bd68ee163612e069d69</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://www.dropbox.com/s/rd5sjvrlqfz7x9f/Unity-iPhone.ipa?dl=1</string>
+					<key>md5-size</key>
+					<integer>50000000</integer>
+					<key>md5s</key>
+					<array>
+					  <string>a4ff439a875f4bd68ee163612e069d69</string>
   <string>e0805cac3a585229990991bb835cb3ba</string>
   <string>4910b6c9305a6452a97f43d4eb5a4c6a</string>
   <string>9bd36325789aef1816b616885266ed0a</string>
@@ -37,33 +38,33 @@
   <string>c502e3f65721d29da759299e7fed0530</string>
   <string>7fa7cd3eebce3594082bb3c18d80d3ff</string>
   <string>47d2c5eebd50cc8ed991decd41075896</string>
-</array>
-              </dict>
-              <dict>
-              <key>kind</key>
-              <string>display-image</string>
-              <key>url</key>
-              <string>https://www.dropbox.com/s/l85ry014fl0oxpy/57.png?dl=1</string>
-              </dict>
-              <dict>
-              <key>kind</key>
-              <string>full-size-image</string>
-              <key>url</key>
-              <string>https://www.dropbox.com/s/s7pigb2ylzu5kqp/512.png?dl=1</string>
-              </dict>
-          </array>
-          <key>metadata</key>
-          <dict>
-          <key>bundle-identifier</key>
-          <string>com.AccentureXRS.TechVision2018</string>
-          <key>bundle-version</key>
-          <string></string>
-          <key>kind</key>
-          <string>software</string>
-          <key>title</key>
-          <string></string>
-          </dict>
-      </dict>
-  </array>
+					</array>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://www.dropbox.com/s/l85ry014fl0oxpy/57.png?dl=1</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://www.dropbox.com/s/s7pigb2ylzu5kqp/512.png?dl=1</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.AccentureXRS.TechVision2018</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>TechVision2018S</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
