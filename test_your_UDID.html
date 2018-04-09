@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>Test your UDID</title>
+        <!-- <script type="text/javascript" src="/js/udid.js"></script> -->
+        <!-- <script type="text/javascript" src="/js/UDIDTester.js"></script> -->
+        <script type="text/javascript">
+            authorizedDevices = {
+                "devices":[
+                           {"UDID":"fe6ea42c22dfdde658339a703f22f12f9c6ba61b"},
+                           {"UDID":"c4d6c1580e553dc7daf489fb0d80c27ccff8c82a"},
+                           {"UDID":"87bf4037f35caac9226ed6e481bc825af489961a"},
+                           {"UDID":"6515ef3c14e9377cfa3d246d6627e11046d662ec"},
+                           {"UDID":"ea4d3d430df73ac6ec97e4209eaffe78bdc4add2"},
+                           {"UDID":"cc9aa499c76a050b3992c8cb11c052a823ef673d"},
+                           {"UDID":"4cf7aa640b4f224b27c086ef37bff6dcfd5cd2b3"},
+                           {"UDID":"5f6b22329ee3d98d8a92c2d850af20b944deabeb"},
+                           {"UDID":"dc2ed6d0622f12c60014b5ae90d1bf7bc4afd451"},
+                           {"UDID":"55c8acefd70773291234e433bce66eca2076d5a3"},
+                           {"UDID":"e4ceaf3ff54c272e06b9a8cda707d3ba6e2aa2a2"},
+                           {"UDID":"684484240b91faa8d5381081faca1fb60f475d08"},
+                           {"UDID":"7f2bc540de290e472b46b760dfef09e51ced1323"},
+                           {"UDID":"93e2a02e993112db5b520435a86105e5650cd86b"},
+                           {"UDID":"9100d8037030a6da3f44959007ae54f7e8900a1c"},
+                           {"UDID":"e2506452ea72d711f559728bd30ee7a05c8235fc"},
+                           ]
+            }
+            
+            function testForm(){
+                udidField = document.forms["udidForm"]["udid"].value;
+                if(udidField==""){
+                    alert("You need to insert your UDID in the proper field");
+                    return false;
+                }else{
+                    nUdids = authorizedDevices["devices"].length;
+                    for(i=0;i<nUdids;i++){
+                        if(udidField == authorizedDevices["devices"][i]["UDID"]){
+                            alert("Your device is authorized");
+                            return true;
+                        }
+                    }
+                    alert("Your device is NOT authorized");
+                    return false;
+                }
+            }
+        </script>
+    </head>
+    
+    <body>
+        <div align="center">
+            <form name="udidForm" onsubmit="return testForm()">
+                Your device UDID: <input type="text" name="udid"> <input type="submit" value="test">
+                
+            </form>
+        </div>
+    </body>
+</html>
