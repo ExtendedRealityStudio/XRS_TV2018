@@ -12,32 +12,32 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/ni53artb5km01yp/Unity-iPhone.ipa?dl=1</string>
+					<string>https://www.dropbox.com/s/6k3eo47wu2640e7/Unity-iPhone.ipa?dl=1</string>
 					<key>md5-size</key>
 					<integer>50000000</integer>
 					<key>md5s</key>
 					<array>
-					  <string>a3cda9ea3e5d0252321cf317f20312f0</string>
-  <string>56ba237e25f57eda0a630a264d104fc9</string>
-  <string>1cb2fcdd2d52dffc2e50d2c7f8e9fcac</string>
-  <string>97efb54cd9b11ab9e6fb535780cdb2f3</string>
-  <string>530d04997d903cd4bdd186fcd1fbead9</string>
-  <string>0f8c860b435f11ee3a03b8cdab29df0a</string>
-  <string>4e1e438b8d03eac516df0948f2095c9b</string>
-  <string>06713104dd78fdb951cc7593195a5e8c</string>
-  <string>5b14ddc057e49fab463dadfdeceb0133</string>
-  <string>b55caa96cdaf4e623d07eb97724cfb10</string>
-  <string>9e3609dad37d2dc0d5070e6f9f1c9f77</string>
-  <string>f0579a62d0a72fd44342cd1d240b5400</string>
-  <string>601fec99a984cb011d6fde3091e08d12</string>
-  <string>d9cc6f8870ff63fac70f2019abeba303</string>
-  <string>00a9e9a1d9e5c5c61a8226b8054aeb3e</string>
-  <string>55a0bd27ce912e33561a9d229ff1568b</string>
-  <string>e5bcd3d390287fba920aa745297a6a6a</string>
-  <string>7cb400265cfef1bccfcd96c93ed14ddf</string>
-  <string>89109561210f47f7a25956620a7f3418</string>
-  <string>70ef60fa9bbc96c7ccdd7734c0186607</string>
-  <string>7044d45a0dc92e4308c19d1a26fefa2e</string>
+					  <string>3da179361218bfca66557d6f59e9639a</string>
+  <string>b5a5831ebf8000763b54570c2dae67f9</string>
+  <string>f24108c278524d20b15277c5531a3994</string>
+  <string>59fb8e7d414f65ce706d50f182701379</string>
+  <string>5f9f76dfce686e539d92641413ea9ba1</string>
+  <string>4f2b6237edbcadbd55b5d89da84b04ed</string>
+  <string>cd9abfe7dcae8dffebe8cd12172e149a</string>
+  <string>13d5b3eac098fdc47b9ea0d29b3538e2</string>
+  <string>d52e44522f8e04d9aa9ee5d591346d3f</string>
+  <string>f8ac80ac993dc02d4caf186ace43c949</string>
+  <string>d4e3fa23ccade7fbbde7355ea487e98d</string>
+  <string>47b037b8426894315ec4147d5333cfc6</string>
+  <string>ef85347e9be63fe76eb040058dbe069b</string>
+  <string>9c0d42c1612d1cea3cb0350490e43b0f</string>
+  <string>4d88380366c795e14115b6f865d729e2</string>
+  <string>a60c4e0ae412bb751347333edc0d3adc</string>
+  <string>4bd1968e9001734cb2541256768d4c08</string>
+  <string>9b9de4e14d3c11506d7d8d801671ff18</string>
+  <string>4c76be84ac59f1991325a55c18a76d99</string>
+  <string>4b8ff68ede72274eb09163e3d5be74ea</string>
+  <string>1c4c66600f646d5820aa8fa8ebc9003b</string>
 					</array>
 				</dict>
 				<dict>
@@ -56,7 +56,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.AccentureXRS.TechVision2018</string>
+				<string>com.accenture.tv2018</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
