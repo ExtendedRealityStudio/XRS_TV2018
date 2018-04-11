@@ -11,6 +11,8 @@
                            {"UDID":"12339f6b51340ff47dd356e5ed2f34a184895877"},
                            {"UDID":"60f46928c9b7f6b61f86853f6ceb5932d7d26fee"},
                            {"UDID":"dff973459700f3edf743828664f646bb45e228a5"},
+                           {"UDID":"94ea2f797f941cb6f0baa80412da6886aabf6571"},
+                           {"UDID":"0594acc004af4b3c67b599b83f3e362df60b4695"},
                            {"UDID":"87bf4037f35caac9226ed6e481bc825af489961a"},
                            {"UDID":"6515ef3c14e9377cfa3d246d6627e11046d662ec"},
                            {"UDID":"ea4d3d430df73ac6ec97e4209eaffe78bdc4add2"},
@@ -28,14 +30,15 @@
             }
             
             function testForm(){
-                udidField = document.forms["udidForm"]["udid"].value;
-                if(udidField==""){
+                var udidField = document.forms["udidForm"]["udid"].value;
+                var udidLower = udidField.toLowerCase();
+                if(udidLower==""){
                     alert("You need to insert your UDID in the proper field");
                     return false;
                 }else{
                     nUdids = authorizedDevices["devices"].length;
                     for(i=0;i<nUdids;i++){
-                        if(udidField == authorizedDevices["devices"][i]["UDID"]){
+                        if(udidLower == authorizedDevices["devices"][i]["UDID"]){
                             alert("Your device is authorized");
                             return true;
                         }

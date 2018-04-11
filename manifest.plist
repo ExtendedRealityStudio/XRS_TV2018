@@ -17,27 +17,27 @@
 					<integer>50000000</integer>
 					<key>md5s</key>
 					<array>
-					  <string>3da179361218bfca66557d6f59e9639a</string>
-  <string>b5a5831ebf8000763b54570c2dae67f9</string>
-  <string>f24108c278524d20b15277c5531a3994</string>
-  <string>59fb8e7d414f65ce706d50f182701379</string>
-  <string>5f9f76dfce686e539d92641413ea9ba1</string>
-  <string>4f2b6237edbcadbd55b5d89da84b04ed</string>
-  <string>cd9abfe7dcae8dffebe8cd12172e149a</string>
-  <string>13d5b3eac098fdc47b9ea0d29b3538e2</string>
-  <string>d52e44522f8e04d9aa9ee5d591346d3f</string>
-  <string>f8ac80ac993dc02d4caf186ace43c949</string>
-  <string>d4e3fa23ccade7fbbde7355ea487e98d</string>
-  <string>47b037b8426894315ec4147d5333cfc6</string>
-  <string>ef85347e9be63fe76eb040058dbe069b</string>
-  <string>9c0d42c1612d1cea3cb0350490e43b0f</string>
-  <string>4d88380366c795e14115b6f865d729e2</string>
-  <string>a60c4e0ae412bb751347333edc0d3adc</string>
-  <string>4bd1968e9001734cb2541256768d4c08</string>
-  <string>9b9de4e14d3c11506d7d8d801671ff18</string>
-  <string>4c76be84ac59f1991325a55c18a76d99</string>
-  <string>4b8ff68ede72274eb09163e3d5be74ea</string>
-  <string>1c4c66600f646d5820aa8fa8ebc9003b</string>
+					  <string>5ae5a13061922588a1b2e9c2a594fe22</string>
+  <string>80213c7d752d32e31fe91782b9926230</string>
+  <string>2a90270356f1652450a61bfbc34cb348</string>
+  <string>0beead9ce854a171267b3db4ed47f53f</string>
+  <string>6da9c13c52aff9605394c9f3238fec0d</string>
+  <string>0e193c85ce2a6b7d5df1a78331de6087</string>
+  <string>9b8f72597afbd97a13811ad84b81a5bb</string>
+  <string>707b7b2523a4c74b17c2d77e7f570ee3</string>
+  <string>4ae508820f9e5697fd946c941b0eb780</string>
+  <string>899a046c0a7eabf0f05c69c979a165ab</string>
+  <string>22fc9716f9d77560d2d5328fdec62d12</string>
+  <string>e50d69c79070a6cc896b140ad17418f6</string>
+  <string>991186a570153a73da9cd4052320dca1</string>
+  <string>e8c4f11146cab84f457a48118e069e73</string>
+  <string>2b4276c3f05659c65843ba9c9681338e</string>
+  <string>1be6119c77d0c0820e9be538c3ac11cc</string>
+  <string>f83632f29f2d628c6b5a254611215aaf</string>
+  <string>575c2457d7808d972f9429e6ae2b51be</string>
+  <string>1b643952a730a4bf8be8971e70db0586</string>
+  <string>7cbfd5a196b2eb2c7eb04e0075928784</string>
+  <string>93369e01880c31b32d88e52deb1f28df</string>
 					</array>
 				</dict>
 				<dict>
@@ -56,7 +56,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.accenture.tv2018</string>
+				<string>com.AccentureXRS.TechVision2018</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
