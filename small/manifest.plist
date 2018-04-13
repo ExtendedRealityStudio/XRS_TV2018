@@ -12,32 +12,32 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/xtczdj36j1lrohq/Unity-iPhone.ipa?dl=1</string>
+					<string>https://www.dropbox.com/s/xtczdj36j1lrohq/Unity-iPhone.ipa?dl=0</string>
 					<key>md5-size</key>
 					<integer>50000000</integer>
 					<key>md5s</key>
 					<array>
-					  <string>8f919c0d537e69fffcde59cccc367ea9</string>
-  <string>3388c5680d4b09e19c9fafe00622647c</string>
-  <string>85147b1b389fe6b7ff702f378a349c6b</string>
-  <string>416f82bf2c05adbfcdea16c0b2159eea</string>
-  <string>e4e1cfedd423900375c4a9d98ae4661d</string>
-  <string>c2205f8e9fb804fc21be7209383cfeca</string>
-  <string>d9a21ac0a1fa59b9699ad30e231fde59</string>
-  <string>6efb555799484bb8b2c7841b70c49de7</string>
-  <string>a65f8ac8af632adeb624b2bdcae7a064</string>
-  <string>321948475ce8df7b39d0bc29e5b7b564</string>
-  <string>726add7a264bea7311d679f6c01f12f0</string>
-  <string>f439093a49d423d5627fafa0a2a3139d</string>
-  <string>171fed7423a5d90dea57320bed177ec3</string>
-  <string>116b3be5cba026a3104dc4a7d681858f</string>
-  <string>8fd9f01a203607606cd46d14e3f759d1</string>
-  <string>31156af63231ec86ebb20d25a6168814</string>
-  <string>4f527c4531e2c6986f6e49d795379b2e</string>
-  <string>e59942627eb754555a6111c8878a97b9</string>
-  <string>ee5bbb761be153b636d4d3a4d044adf2</string>
-  <string>ef30069ecfc9d8856e0f17df86cb0959</string>
-  <string>b0b20e8a8f2d2f185ce5658ca41d2745</string>
+					  <string>1c90e515a391595e54474ec28a0452a6</string>
+  <string>dafa0f6c499dc0baae751fc9f901eb9d</string>
+  <string>0eec8ec76aafd6232621f2ca8c56f5e7</string>
+  <string>26de6206d0f0017e87ee29cb8a1b0b84</string>
+  <string>caebd55c9b512ae56534c3b54322bf78</string>
+  <string>87b0813a5e89464d265dc6a4fba306cf</string>
+  <string>ad1573b1529bf46b790c34b296f2cb4c</string>
+  <string>d84210d0d60532cc1b54c7c4d1d3317a</string>
+  <string>80e17f4aadf2e7a940916fbeb219cb1f</string>
+  <string>64571e7e039f1d301579da63176d9a52</string>
+  <string>0fd1cdeed08025836c0e5ee02b80784f</string>
+  <string>b35f23a8ae9f9c891e2b623316b84319</string>
+  <string>5875ef12806588441a55007784235e6a</string>
+  <string>9b3f8d47e6f3af94c32e9760d570ddf1</string>
+  <string>3f49d36b4032483445580d5dfea7682a</string>
+  <string>4567f9dbfeb5088f715ac135885fa476</string>
+  <string>68c1bfcabb19c2fee50a444540265594</string>
+  <string>b8056cc20d4cdd9f8eb93b9ee98bb3fc</string>
+  <string>b3a579025e0288ddb94314a5aee8c9dc</string>
+  <string>480fb41ede09b1ce2b141b145b4886c6</string>
+  <string>4bee1128ca4179dd202ac5b59bec2ea2</string>
 					</array>
 				</dict>
 				<dict>
