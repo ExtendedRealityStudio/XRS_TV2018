@@ -45,8 +45,8 @@
                     nUdids = authorizedDevices["devices"].length;
                     for(i=0;i<nUdids;i++){
                         if(udidLower == authorizedDevices["devices"][i]["UDID"]){
-                            var owner = authorizedDevices["devices"][i]["owner"];
-                            alert("This device is authorized and belongs to "+owner);
+                            //var owner = authorizedDevices["devices"][i]["owner"];
+                            alert("This device is authorized");// and belongs to "+owner);
                             return true;
                         }
                     }
