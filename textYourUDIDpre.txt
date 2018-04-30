@@ -1,0 +1,5 @@
+<html>
+    <head>
+        <title>Test your UDID</title>
+        <script type="text/javascript">
+            authorizedDevices = 

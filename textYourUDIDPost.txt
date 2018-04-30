@@ -1,0 +1,32 @@
+
+            function testForm(){
+                var udidField = document.forms["udidForm"]["udid"].value;
+                var udidLower = udidField.toLowerCase();
+                if(udidLower==""){
+                    alert("You need to insert your UDID in the proper field");
+                    return false;
+                }else{
+                    nUdids = authorizedDevices["devices"].length;
+                    for(i=0;i<nUdids;i++){
+                        if(udidLower == authorizedDevices["devices"][i]["UDID"]){
+                            //var owner = authorizedDevices["devices"][i]["owner"];
+                            alert("This device is authorized");// and belongs to "+owner);
+                            return true;
+                        }
+                    }
+                    alert("Your device is NOT authorized");
+                    return false;
+                }
+            }
+        </script>
+    </head>
+    
+    <body>
+        <div align="center">
+            <form name="udidForm" onsubmit="return testForm()">
+                Your device UDID: <input type="text" name="udid"> <input type="submit" value="test">
+                
+            </form>
+        </div>
+    </body>
+</html>
