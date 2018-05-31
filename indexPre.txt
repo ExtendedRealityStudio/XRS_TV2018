@@ -1,6 +1,20 @@
 <html>
 <head>
 <title>TechVision 2018 installer page</title>
+<script>
+    function toggleOldVersions(){
+        var divOldVersions = document.getElementById('old_versions');
+        var aOldVersionToggle = document.getElementById('old_versions_toggle');
+        var bVisible = (divOldVersions.style.visibility == 'visible');
+        if(bVisible){
+            divOldVersions.style.visibility = 'hidden';
+            aOldVersionToggle.innerHTML = "Show old versions archive<br>(experts only)";
+        }else{
+            divOldVersions.style.visibility = 'visible';
+            aOldVersionToggle.innerHTML = "Hide old versions archive";
+        }
+    }
+</script>
 </head>
 <body style="font-family: Arial;">
 <div align="center">
